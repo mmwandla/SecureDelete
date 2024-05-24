@@ -1,0 +1,16 @@
+C:\Users\Nhanzeko\source\repos\SecureDelete\bin\Debug\net8.0-windows\SecureDelete.exe
+C:\Users\Nhanzeko\source\repos\SecureDelete\bin\Debug\net8.0-windows\SecureDelete.deps.json
+C:\Users\Nhanzeko\source\repos\SecureDelete\bin\Debug\net8.0-windows\SecureDelete.runtimeconfig.json
+C:\Users\Nhanzeko\source\repos\SecureDelete\bin\Debug\net8.0-windows\SecureDelete.dll
+C:\Users\Nhanzeko\source\repos\SecureDelete\bin\Debug\net8.0-windows\SecureDelete.pdb
+C:\Users\Nhanzeko\source\repos\SecureDelete\obj\Debug\net8.0-windows\SecureDelete.Form1.resources
+C:\Users\Nhanzeko\source\repos\SecureDelete\obj\Debug\net8.0-windows\SecureDelete.csproj.GenerateResource.cache
+C:\Users\Nhanzeko\source\repos\SecureDelete\obj\Debug\net8.0-windows\SecureDelete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nhanzeko\source\repos\SecureDelete\obj\Debug\net8.0-windows\SecureDelete.AssemblyInfoInputs.cache
+C:\Users\Nhanzeko\source\repos\SecureDelete\obj\Debug\net8.0-windows\SecureDelete.AssemblyInfo.cs
+C:\Users\Nhanzeko\source\repos\SecureDelete\obj\Debug\net8.0-windows\SecureDelete.csproj.CoreCompileInputs.cache
+C:\Users\Nhanzeko\source\repos\SecureDelete\obj\Debug\net8.0-windows\SecureDelete.dll
+C:\Users\Nhanzeko\source\repos\SecureDelete\obj\Debug\net8.0-windows\refint\SecureDelete.dll
+C:\Users\Nhanzeko\source\repos\SecureDelete\obj\Debug\net8.0-windows\SecureDelete.pdb
+C:\Users\Nhanzeko\source\repos\SecureDelete\obj\Debug\net8.0-windows\SecureDelete.genruntimeconfig.cache
+C:\Users\Nhanzeko\source\repos\SecureDelete\obj\Debug\net8.0-windows\ref\SecureDelete.dll
